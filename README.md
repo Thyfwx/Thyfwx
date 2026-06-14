@@ -2,15 +2,15 @@
 
 <p align="center"><b>Builder, not a coder.</b></p>
 
-I don't hand-write the code. I design it, direct it, review it, and ship it. My eyes, my toolchain.
+I don't write the code by hand. I design it, direct it, review it, and ship it. My eyes, my toolchain.
 
-- 🌐 Everything I make ships to **[thyfwxit.com](https://thyfwxit.com)**, the hub
+- 🌐 Everything I make ships to **[thyfwxit.com](https://thyfwxit.com)**
 - 🤖 I built **[Nexus](https://thyfwxit.com/nexus)**, an AI terminal: 4 chat modes, 8 games, image generation, leaderboards
 - 🛠️ Vanilla JS on Cloudflare Workers and Pages. No frameworks, no templates
 - 🏠 I run a home lab: self hosted services and models on my own GPU
 - 🔧 Hardware and board level repair for when software isn't the problem
 
-> **The loop.** My portfolio's activity feed pulls straight from this profile, live. What ships here shows up there.
+> My portfolio pulls its activity feed straight from this profile, live. What I ship here shows up there.
 
 ### 🧱 Built with
 
@@ -35,9 +35,12 @@ I don't hand-write the code. I design it, direct it, review it, and ship it. My 
 
 <p align="center">
   <a href="https://instagram.com/thyfwx"><img src="https://img.shields.io/badge/Instagram-14141e?style=for-the-badge&logo=instagram&logoColor=ff66c4"></a>
-  <a href="https://snapchat.com/add/thyfwx"><img src="https://img.shields.io/badge/Snapchat-14141e?style=for-the-badge&logo=snapchat&logoColor=66e0e0"></a>
-  <a href="https://x.com/thyfwx"><img src="https://img.shields.io/badge/X-14141e?style=for-the-badge&logo=x&logoColor=b06bff"></a>
-  <a href="https://tiktok.com/@thyfwx"><img src="https://img.shields.io/badge/TikTok-14141e?style=for-the-badge&logo=tiktok&logoColor=ff66c4"></a>
+  <a href="https://x.com/thyfwx"><img src="https://img.shields.io/badge/X-14141e?style=for-the-badge&logo=x&logoColor=66e0e0"></a>
+  <a href="https://tiktok.com/@thyfwx"><img src="https://img.shields.io/badge/TikTok-14141e?style=for-the-badge&logo=tiktok&logoColor=b06bff"></a>
+  <a href="https://youtube.com/@thyfwx"><img src="https://img.shields.io/badge/YouTube-14141e?style=for-the-badge&logo=youtube&logoColor=ff66c4"></a>
+  <a href="https://twitch.tv/thyfwx"><img src="https://img.shields.io/badge/Twitch-14141e?style=for-the-badge&logo=twitch&logoColor=66e0e0"></a>
+  <a href="https://snapchat.com/add/thyfwx"><img src="https://img.shields.io/badge/Snapchat-14141e?style=for-the-badge&logo=snapchat&logoColor=b06bff"></a>
+  <a href="https://reddit.com/user/thyfwx"><img src="https://img.shields.io/badge/Reddit-14141e?style=for-the-badge&logo=reddit&logoColor=ff66c4"></a>
 </p>
 
-<p align="center"><i>I build in public. The craft is in what ships.</i></p>
+<p align="center"><i>I build in public, still figuring it out as I go.</i></p>
