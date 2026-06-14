@@ -38,9 +38,9 @@ I don't write the code by hand. I design it, direct it, review it, and ship it. 
   <a href="https://x.com/thyfwx"><img src="https://img.shields.io/badge/X-14141e?style=for-the-badge&logo=x&logoColor=66e0e0"></a>
   <a href="https://tiktok.com/@thyfwx"><img src="https://img.shields.io/badge/TikTok-14141e?style=for-the-badge&logo=tiktok&logoColor=b06bff"></a>
   <a href="https://youtube.com/@thyfwx"><img src="https://img.shields.io/badge/YouTube-14141e?style=for-the-badge&logo=youtube&logoColor=ff66c4"></a>
-  <a href="https://twitch.tv/thyfwx"><img src="https://img.shields.io/badge/Twitch-14141e?style=for-the-badge&logo=twitch&logoColor=66e0e0"></a>
+  <a href="https://twitch.tv/lovexdgamer"><img src="https://img.shields.io/badge/Twitch-14141e?style=for-the-badge&logo=twitch&logoColor=66e0e0"></a>
   <a href="https://snapchat.com/add/thyfwx"><img src="https://img.shields.io/badge/Snapchat-14141e?style=for-the-badge&logo=snapchat&logoColor=b06bff"></a>
-  <a href="https://reddit.com/user/thyfwx"><img src="https://img.shields.io/badge/Reddit-14141e?style=for-the-badge&logo=reddit&logoColor=ff66c4"></a>
+  <a href="https://reddit.com/user/fw_4014"><img src="https://img.shields.io/badge/Reddit-14141e?style=for-the-badge&logo=reddit&logoColor=ff66c4"></a>
 </p>
 
 <p align="center"><i>I build in public, still figuring it out as I go.</i></p>
