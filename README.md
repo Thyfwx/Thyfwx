@@ -21,7 +21,6 @@ I don't write the code by hand. I design it, direct it, review it, and ship it. 
 ### 🚀 Featured
 
 - **[nexus](https://github.com/Thyfwx/nexus)** — AI terminal: 4 chat modes, 8 browser games, image generation, leaderboards, live diagnostics. Cloudflare Workers and Pages, vanilla JS.
-- **[thyfwxit](https://github.com/Thyfwx/thyfwxit)** — The portfolio itself. Hand coded, no templates. Pulls this profile's commits live.
 - **[Media-Organizer-Mac](https://github.com/Thyfwx/Media-Organizer-Mac)** — Smart file renamer for macOS that reads what's in a file and names it like a human would. Runs on device.
 - **[TokIntel](https://github.com/Thyfwx/TokIntel)** — Find when a TikTok account was created. No API key, no signup, just a username.
 
