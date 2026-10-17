@@ -1,45 +1,24 @@
-<h1 align="center">⚡ Xavier Scott</h1>
+# Xavier Scott
 
-<p align="center"><b>Builder, not a coder.</b></p>
+I'm a self taught builder. I repair hardware down to the board, run a home lab, and write software for the things I wish existed.
 
-I don't write the code by hand. I design it, direct it, review it, and ship it. My eyes, my toolchain.
+## What I work on
 
-- 🌐 Everything I make ships to **[thyfwxit.com](https://thyfwxit.com)**
-- 🤖 I built **[Nexus](https://thyfwxit.com/nexus)**, an AI terminal: 4 chat modes, 8 games, image generation, leaderboards
-- 🛠️ Vanilla JS on Cloudflare Workers and Pages. No frameworks, no templates
-- 🏠 I run a home lab: self hosted services and models on my own GPU
-- 🔧 Hardware and board level repair for when software isn't the problem
+- Hardware repair, including board level diagnostics.
+- A home lab with self hosted services and models running on my own GPU.
+- Nexus, my own AI terminal for the browser.
+- Vertex, a free terminal AI coding assistant.
 
-> My portfolio pulls its activity feed straight from this profile, live. What I ship here shows up there.
+## Projects
 
-### 🧱 Built with
+- [Vertex](https://thyfwxit.com/vertex/): a free, closed source AI coding assistant for the terminal. This is where its releases and docs live.
+- [nexus](https://github.com/Thyfwx/nexus): an AI terminal for the browser with four chat modes, eight games, image generation and leaderboards. Plain JavaScript on Cloudflare.
+- [TokIntel](https://github.com/Thyfwx/TokIntel): looks up when a TikTok account was created from just a username. No API key.
+- [Media-Organizer-Mac](https://github.com/Thyfwx/Media-Organizer-Mac): a macOS app that renames files based on what's inside them.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,cloudflare,python,bash,linux,git&theme=dark" alt="tech stack"/>
-</p>
+## Find me
 
-### 🚀 Featured
-
-- **[nexus](https://github.com/Thyfwx/nexus)** — AI terminal: 4 chat modes, 8 browser games, image generation, leaderboards, live diagnostics. Cloudflare Workers and Pages, vanilla JS.
-- **[Media-Organizer-Mac](https://github.com/Thyfwx/Media-Organizer-Mac)** — Smart file renamer for macOS that reads what's in a file and names it like a human would. Runs on device.
-- **[TokIntel](https://github.com/Thyfwx/TokIntel)** — Find when a TikTok account was created. No API key, no signup, just a username.
-
-<h3 align="center">Find me</h3>
-
-<p align="center">
-  <a href="https://thyfwxit.com"><img src="https://img.shields.io/badge/Website-14141e?style=for-the-badge&logo=firefox&logoColor=ff66c4"></a>
-  <a href="mailto:xavier@thyfwxit.com"><img src="https://img.shields.io/badge/Email-14141e?style=for-the-badge&logo=gmail&logoColor=66e0e0"></a>
-  <a href="https://buymeacoffee.com/thyfwx"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-14141e?style=for-the-badge&logo=buymeacoffee&logoColor=b06bff"></a>
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/thyfwx"><img src="https://img.shields.io/badge/Instagram-14141e?style=for-the-badge&logo=instagram&logoColor=ff66c4"></a>
-  <a href="https://x.com/thyfwx"><img src="https://img.shields.io/badge/X-14141e?style=for-the-badge&logo=x&logoColor=66e0e0"></a>
-  <a href="https://tiktok.com/@thyfwx"><img src="https://img.shields.io/badge/TikTok-14141e?style=for-the-badge&logo=tiktok&logoColor=b06bff"></a>
-  <a href="https://youtube.com/@thyfwx"><img src="https://img.shields.io/badge/YouTube-14141e?style=for-the-badge&logo=youtube&logoColor=ff66c4"></a>
-  <a href="https://twitch.tv/lovexdgamer"><img src="https://img.shields.io/badge/Twitch-14141e?style=for-the-badge&logo=twitch&logoColor=66e0e0"></a>
-  <a href="https://snapchat.com/add/thyfwx"><img src="https://img.shields.io/badge/Snapchat-14141e?style=for-the-badge&logo=snapchat&logoColor=b06bff"></a>
-  <a href="https://reddit.com/user/fw_4014"><img src="https://img.shields.io/badge/Reddit-14141e?style=for-the-badge&logo=reddit&logoColor=ff66c4"></a>
-</p>
-
-<p align="center"><i>I build in public, still figuring it out as I go.</i></p>
+- Site: [thyfwxit.com](https://thyfwxit.com)
+- Support: [buymeacoffee.com/thyfwx](https://buymeacoffee.com/thyfwx)
+- Video: [YouTube](https://youtube.com/@thyfwx), [TikTok](https://tiktok.com/@thyfwx), [Twitch](https://twitch.tv/lovexdgamer)
+- Social: [X](https://x.com/thyfwx), [Instagram](https://instagram.com/thyfwx), [Snapchat](https://snapchat.com/add/thyfwx), [Reddit](https://reddit.com/user/fw_4014)
